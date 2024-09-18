@@ -1,8 +1,10 @@
 langchain-openai
 langchain
+langchain_community
 chromadb
 python-dotenv
 tiktoken
 umap-learn
 sentence-transformers
 matplotlib
+ipykernel
